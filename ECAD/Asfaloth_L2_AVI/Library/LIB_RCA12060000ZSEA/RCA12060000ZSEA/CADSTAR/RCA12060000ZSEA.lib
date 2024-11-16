@@ -1,0 +1,16 @@
+.RCA12060000ZSEA :1 ;Thick Film Resistors - SMD Zero-Ohm Resist 3.5A
+RESC3216X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCA12060000ZSEA
+~!Mouser Part Number (71-RCA12060000ZSEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCA12060000ZSEA?qs=4%252Ber4tcBTOgzMfDdqtZgmA%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCA12060000ZSEA)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/427/rcae3-1761931.pdf)
+~!Height (0.6mm)
+~!3D_Model (RCA12060000ZSEA)
+RCA12060000ZSEA
+1.1!U 2.1!U 

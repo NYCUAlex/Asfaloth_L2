@@ -1,0 +1,9 @@
+Manufacturer=Nichicon
+PartNumber=UUX1E221MNL1GS
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=1.1
+Released=2021-08-12 04:30:23
+Downloaded=2024-11-01 07:13:21
+3D=Y

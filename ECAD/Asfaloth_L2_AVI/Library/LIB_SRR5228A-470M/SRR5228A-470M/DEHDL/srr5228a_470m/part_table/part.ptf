@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRR5228A_470M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "SRR5228A-470M" (!) = "", "SRR5228A", "Other", "6521-SRR5228A-470M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRR5228A-470M?qs=QpmGXVUTftG9kA8o879uEQ%3D%3D", "Ind,5.2x5.2x2.8,47uH+/-20%,1.1A,shd", "https://www.bourns.com/docs/Product-Datasheets/SRR5228A.pdf"
+END_PART
+
+END.

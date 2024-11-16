@@ -1,0 +1,16 @@
+.CSS0805FT10L0 :1 ;RES SHUNT, 0805, 0.01 ohm, 1%, 0.5W
+CSS0805FT10L0
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CSS0805FT10L0
+~!Mouser Part Number (708-CSS0805FT10L0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/CSS0805FT10L0?qs=IPgv5n7u5QYApC%252BwHqTVbQ%3D%3D)
+~!Manufacturer_Name (Stackpole Electronics, Inc.)
+~!Manufacturer_Part_Number (CSS0805FT10L0)
+~!Link Datasheet (https://cs.seielect.com/catalog/SEI-CSS_CSSH.PDF)
+~!Height (0.65mm)
+~!3D_Model (CSS0805FT10L0)
+CSS0805FT10L0
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCA12060000ZSEA
+D Thick Film Resistors - SMD Zero-Ohm Resist 3.5A
+K
+F https://www.mouser.in/datasheet/2/427/rcae3-1761931.pdf
+$ENDCMP
+#
+#End Doc Library

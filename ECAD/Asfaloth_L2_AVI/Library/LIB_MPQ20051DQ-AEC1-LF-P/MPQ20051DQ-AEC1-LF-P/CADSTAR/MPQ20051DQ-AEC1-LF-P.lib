@@ -1,0 +1,16 @@
+.MPQ20051DQ-AEC1-LF-P :1 ;LDO Voltage Regulators Auto Grade,Low Noise PSRR1A Linear Rgltr
+SON65P300X300X100-9N-D
+*STM IC
+*NGS
+*PLB 1="OUT_1" 2="OUT_2" 3="FB" 4="GND_1" 5="EN" 6="NC" 7="IN_1" 8="IN_2" 9="GND_2"
+*MXP 9
+*DFN MPQ20051DQ-AEC1-LF-P
+~!Mouser Part Number (946-MP20051DQAEC1LFP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MPQ20051DQ-AEC1-LF-P?qs=IW9Tsl75qsWIqwkY02mOMw%3D%3D)
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MPQ20051DQ-AEC1-LF-P)
+~!Link Datasheet (https://www.monolithicpower.com/pub/media/document/MPQ20051_r1.0.pdf)
+~!Height (1mm)
+~!3D_Model (MPQ20051DQ-AEC1-LF-P)
+MPQ20051DQ-AEC1-LF-P
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

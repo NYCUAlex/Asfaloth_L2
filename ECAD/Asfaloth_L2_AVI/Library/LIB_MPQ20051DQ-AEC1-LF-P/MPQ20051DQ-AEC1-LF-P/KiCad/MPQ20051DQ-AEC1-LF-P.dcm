@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPQ20051DQ-AEC1-LF-P
+D LDO Voltage Regulators Auto Grade,Low Noise PSRR1A Linear Rgltr
+K
+F https://www.monolithicpower.com/pub/media/document/MPQ20051_r1.0.pdf
+$ENDCMP
+#
+#End Doc Library

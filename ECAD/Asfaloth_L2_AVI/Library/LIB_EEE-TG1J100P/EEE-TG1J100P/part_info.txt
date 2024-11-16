@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-TG1J100P
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=3.1
+Released=2020-08-05 11:10:20
+Downloaded=2024-10-25 07:27:02
+3D=Y

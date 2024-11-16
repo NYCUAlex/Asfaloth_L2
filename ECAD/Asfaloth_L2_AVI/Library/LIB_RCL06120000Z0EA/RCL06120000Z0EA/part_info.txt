@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=RCL06120000Z0EA
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2021-02-03 06:32:35
+Downloaded=2024-11-01 08:27:40
+3D=Y

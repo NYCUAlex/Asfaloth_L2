@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GRT188C71C475KE13D"
+   (description "AEC-Q200 Compliant Chip Multilayer Ceramic Capacitors for Infotainment")
+   (family "CAP")
+   (package "GRT188")
+   (attribute "Datasheet Link" "https://www.murata.com/en-global/products/productdetail?partno=GRT188C71C475KE13%23")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Mouser Part Number" "81-GRT188C71C475KE13")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188C71C475KE13D?qs=pUKx8fyJudC7lYX%252BQNKS7Q%3D%3D")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "GRT188C71C475KE13D")
+   (gate
+    (symbol "GRT188C71C475KE13D")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "GRT188C71C475KE13D"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GRT188"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.4)
+      (pt 0.8 0.4)
+      (pt 0.8 -0.4)
+      (pt -0.8 -0.4)
+      (pt -0.8 0.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 1.4)
+      (pt 2 1.4)
+      (pt 2 -1.4)
+      (pt -2 -1.4)
+      (pt -2 1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.4)
+      (pt 0 -0.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 0.1)
+      (arc (pt -1.500 0.100) (pt -1.600 -0.100) (pt -1.400 0.100) (start 180.0) (sweep 90.0))
+      (pt -1.5 -0.1)
+      (arc (pt -1.500 -0.100) (pt -1.600 -0.100) (pt -1.400 0.100) (start 180.0) (sweep -90.0))
+      (pt -1.5 0.1))))
+   (leg 1 (pt -0.675 0.000) (padstack 0))
+   (leg 2 (pt 0.675 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.650 0.700 0 0 90.000))
+   )
+   (model "GRT188C71C475KE13D.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

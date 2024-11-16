@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS6-0505S
+D DC/DC Converter Isolated 5V 6W Recom Through Hole 6W Isolated DC-DC Converter, Vin 4.5  9 V dc
+K
+F https://www.recom-power.com/pdf/Econoline/RS6.pdf
+$ENDCMP
+#
+#End Doc Library

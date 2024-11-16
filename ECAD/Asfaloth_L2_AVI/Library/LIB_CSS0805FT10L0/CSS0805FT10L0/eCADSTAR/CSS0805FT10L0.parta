@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_14710411"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-10-06:20:07)
+    (utime 2023-11-05-06:25:26)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CSS0805FT10L0")
+)
+
+
+(pinAssign "ECS_14710411"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-10-06:20:07)
+    (utime 2023-11-05-06:25:26)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14710411")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CSS0805FT10L0")
+)
+
+
+(part "CSS0805FT10L0"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-10-06:20:07)
+    (utime 2023-11-05-06:25:26)
+    (packageRef "CSS0805FT10L0")
+    (pinAssignRef "ECS_14710411")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "RES SHUNT, 0805, 0.01 ohm, 1%, 0.5W")
+    (property "Mouser_Part_Number" "708-CSS0805FT10L0")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/CSS0805FT10L0?qs=IPgv5n7u5QYApC%252BwHqTVbQ%3D%3D")
+    (property "Manufacturer_Name" "Stackpole Electronics, Inc.")
+    (property "Manufacturer_Part_Number" "CSS0805FT10L0")
+    (property "Datasheet_Link" "https://cs.seielect.com/catalog/SEI-CSS_CSSH.PDF")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1369548"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-17-07:03:40)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SML-H12D8TT86C")
+)
+
+
+(pinAssign "ECS_1369548"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-17-07:03:40)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1369548")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SML-H12D8TT86C")
+)
+
+
+(part "SML-H12D8TT86C"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-17-07:03:40)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SML-H12D8TT86C")
+    (pinAssignRef "ECS_1369548")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "ROHM - SML-H12D8TT86C - LED, Orange, SMD, 0805, 20 mA, 2.2 V, 605 nm")
+    (property "Mouser_Part_Number" "755-SML-H12D8TT86C")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SML-H12D8TT86C?qs=HXFqYaX1Q2zvr%2FF6ntdhJw%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "SML-H12D8TT86C")
+    (property "Datasheet_Link" "https://ms.componentsearchengine.com/Datasheets/2/SML-H12D8TT86C.pdf")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

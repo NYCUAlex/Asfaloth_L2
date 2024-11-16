@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=282837-4
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2020-08-19 13:30:10
+Downloaded=2024-10-31 16:13:23
+3D=Y

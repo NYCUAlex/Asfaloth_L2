@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMLMN2BCTT86C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "SMLMN2BCTT86C" (!) = "", "LEDM2012X100N", "LED Moulded", "755-SMLMN2BCTT86C", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SMLMN2BCTT86C?qs=EAJhGnHnT02MwYNfU4gt9w%3D%3D", "Blue 470nm LED Indication - Discrete 2.9V 0805 (2012 Metric)", "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlmn2bctt86(c)-e.pdf", "1 mm"
+END_PART
+
+END.

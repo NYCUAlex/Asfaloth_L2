@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEE_TG1J100P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEE-TG1J100P" (!) = "", "CAPAE830X650N", "Capacitor Al Electrolytic", "667-EEE-TG1J100P", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TG1J100P?qs=aAAGLDy8P2x3htHP%2FTxLDQ%3D%3D", "Aluminum Electrolytic Capacitors - SMD Al Lytic Cap SMT TG Series 125C", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1187.pdf", "6.5 mm"
+END_PART
+
+END.

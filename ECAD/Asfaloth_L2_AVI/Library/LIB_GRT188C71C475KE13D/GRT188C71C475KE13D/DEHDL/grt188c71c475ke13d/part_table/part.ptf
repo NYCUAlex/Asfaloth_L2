@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRT188C71C475KE13D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRT188C71C475KE13D" (!) = "", "GRT188", "Other", "81-GRT188C71C475KE13", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRT188C71C475KE13D?qs=pUKx8fyJudC7lYX%252BQNKS7Q%3D%3D", "AEC-Q200 Compliant Chip Multilayer Ceramic Capacitors for Infotainment", "https://www.murata.com/en-global/products/productdetail?partno=GRT188C71C475KE13%23", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1843205"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-05-11:10:20)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EEE-TG1J100P")
+)
+
+
+(pinAssign "ECS_1843205"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-05-11:10:20)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1843205")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EEE-TG1J100P")
+)
+
+
+(part "EEE-TG1J100P"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-05-11:10:20)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "EEE-TG1J100P")
+    (pinAssignRef "ECS_1843205")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Aluminum Electrolytic Capacitors - SMD Al Lytic Cap SMT TG Series 125C")
+    (property "Mouser_Part_Number" "667-EEE-TG1J100P")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-TG1J100P?qs=aAAGLDy8P2x3htHP%2FTxLDQ%3D%3D")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "EEE-TG1J100P")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1187.pdf")
+    (property "compAreaTopHeight" 6.5)
+)
+
+

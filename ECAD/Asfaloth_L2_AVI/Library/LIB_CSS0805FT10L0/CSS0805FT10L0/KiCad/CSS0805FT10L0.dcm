@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSS0805FT10L0
+D RES SHUNT, 0805, 0.01 ohm, 1%, 0.5W
+K
+F https://cs.seielect.com/catalog/SEI-CSS_CSSH.PDF
+$ENDCMP
+#
+#End Doc Library

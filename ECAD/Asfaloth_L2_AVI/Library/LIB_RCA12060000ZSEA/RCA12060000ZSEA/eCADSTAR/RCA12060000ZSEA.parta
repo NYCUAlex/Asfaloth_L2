@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_854958"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-13-11:46:45)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RCA12060000ZSEA")
+)
+
+
+(pinAssign "ECS_854958"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-13-11:46:45)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_854958")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RCA12060000ZSEA")
+)
+
+
+(part "RCA12060000ZSEA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-12-13-11:46:45)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "RCA12060000ZSEA")
+    (pinAssignRef "ECS_854958")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Thick Film Resistors - SMD Zero-Ohm Resist 3.5A")
+    (property "Mouser_Part_Number" "71-RCA12060000ZSEA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCA12060000ZSEA?qs=4%252Ber4tcBTOgzMfDdqtZgmA%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "RCA12060000ZSEA")
+    (property "Datasheet_Link" "https://www.mouser.in/datasheet/2/427/rcae3-1761931.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

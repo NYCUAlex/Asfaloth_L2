@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SML_H12D8TT86C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "SML-H12D8TT86C" (!) = "", "LEDC2012X90N", "LEDs Chip", "755-SML-H12D8TT86C", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SML-H12D8TT86C?qs=HXFqYaX1Q2zvr%2FF6ntdhJw%3D%3D", "ROHM - SML-H12D8TT86C - LED, Orange, SMD, 0805, 20 mA, 2.2 V, 605 nm", "https://ms.componentsearchengine.com/Datasheets/2/SML-H12D8TT86C.pdf", "0.9 mm"
+END_PART
+
+END.

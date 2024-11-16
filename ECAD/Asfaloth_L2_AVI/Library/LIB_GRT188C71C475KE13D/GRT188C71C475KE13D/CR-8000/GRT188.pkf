@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GRT188"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GRT188")
+        (spec "default")
+    )
+)

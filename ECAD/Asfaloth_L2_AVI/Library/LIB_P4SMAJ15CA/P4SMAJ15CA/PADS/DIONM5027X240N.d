@@ -1,0 +1,36 @@
+*PADS-LIBRARY-PCB-DECALS-V9*
+
+DIONM5027X240N M 0 0 0 2 4 0 2 1 0
+TIMESTAMP 2024.10.25.05.10.35
+0 0 0 0 1.27 0.127 1 0 34 "Regular <Romansim Stroke Font>"
+REF-DES
+0 0 0 0 1.27 0.127 1 32 35 "Regular <Romansim Stroke Font>"
+PART-TYPE
+CLOSED 5 0.05 20 -1
+-3.35 1.7
+3.35 1.7
+3.35 -1.7
+-3.35 -1.7
+-3.35 1.7
+CLOSED 5 0.1 27 -1
+-2.5 1.35
+2.5 1.35
+2.5 -1.35
+-2.5 -1.35
+-2.5 1.35
+OPEN 2 0.2 26 -1
+2.5 1.35
+-2.5 1.35
+OPEN 2 0.2 26 -1
+-2.5 -1.35
+2.5 -1.35
+T-2.1 0 -2.1 0 1
+T2.1 0 2.1 0 2
+PAD 0 3 N 0
+-2 1.55 RF 0 0 2 0
+-1 0 R
+0 0 R
+
+*END*
+*REMARK* AP
+P4SMAJ15CA.stp/0/0/0/0/0/0

@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "UUX1E221MNL1GS"
+   (description "Nichicon 220uF Electrolytic Capacitor 25V dc, Surface Mount - UUX1E221MNL1GS")
+   (family "CAP")
+   (package "CAPAE1030X1080N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/dk/DKDS-9/176761.pdf")
+   (attribute "Geometry.Height" "10.8mm")
+   (attribute "Mouser Part Number" "647-UUX1E221MNL1GS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nichicon/UUX1E221MNL1GS?qs=%252BzEQ4sV6YNl6PYAEsoiWCQ%3D%3D")
+   (attribute "Manufacturer_Name" "Nichicon")
+   (attribute "Manufacturer_Part_Number" "UUX1E221MNL1GS")
+   (gate
+    (symbol "UUX1E221MNL1GS")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "UUX1E221MNL1GS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100) (pt 230 -100) (pt 230 100) (pt 200 100) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 180 50) (pt 140 50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 70) (pt 160 30))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 0) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 300 -100) (pt 270 -100) (pt 270 100) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPAE1030X1080N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -6.825 5.75)
+      (pt 6.825 5.75)
+      (pt 6.825 -5.75)
+      (pt -6.825 -5.75)
+      (pt -6.825 5.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 5.15 5.15)
+      (pt -2.575 5.15)
+      (pt -5.15 2.575)
+      (pt -5.15 -2.575)
+      (pt -2.575 -5.15)
+      (pt 5.15 -5.15)
+      (pt 5.15 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6.325 5.15)
+      (pt 5.15 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.575 -5.15)
+      (pt 5.15 -5.15))))
+   (leg 1 (pt -4.25 0) (padstack 0))
+   (leg 2 (pt 4.25 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.15 4.15 0 0 0))
+   )
+   (model "UUX1E221MNL1GS.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

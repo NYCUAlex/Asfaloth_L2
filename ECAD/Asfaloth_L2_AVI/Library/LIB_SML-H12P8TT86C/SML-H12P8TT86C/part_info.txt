@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=SML-H12P8TT86C
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=2.1
+Released=2019-03-25 11:13:16
+Downloaded=2024-10-29 11:47:08
+3D=N

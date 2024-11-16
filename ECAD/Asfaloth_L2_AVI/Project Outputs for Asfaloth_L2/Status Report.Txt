@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [PCB_Project_1.PrjPcb]
+   Generated File[Pick Place for Asfaloth_L2_AVI_ver0.0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 08:03:58 On 2024/11/15

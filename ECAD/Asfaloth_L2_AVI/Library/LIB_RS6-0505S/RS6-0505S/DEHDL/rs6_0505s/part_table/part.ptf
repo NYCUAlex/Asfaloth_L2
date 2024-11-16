@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RS6_0505S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "RS6-0505S" (!) = "", "RS60505S", "Other", "919-RS6-0505S", "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RS6-0505S?qs=FLBwGrBR9%252B3r5kgbzQWtZg%3D%3D", "DC/DC Converter Isolated 5V 6W Recom Through Hole 6W Isolated DC-DC Converter, Vin 4.5  9 V dc", "https://www.recom-power.com/pdf/Econoline/RS6.pdf", "11.6 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MPQ20051DQ-AEC1-LF-P
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=2.1
+Released=2019-03-29 13:08:12
+Downloaded=2024-10-24 18:30:44
+3D=Y

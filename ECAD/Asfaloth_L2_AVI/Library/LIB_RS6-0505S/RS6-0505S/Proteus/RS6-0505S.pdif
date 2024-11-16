@@ -1,0 +1,137 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RS6-0505S"
+   (description "DC/DC Converter Isolated 5V 6W Recom Through Hole 6W Isolated DC-DC Converter, Vin 4.5  9 V dc")
+   (family "ANA")
+   (package "RS60505S")
+   (attribute "Datasheet Link" "https://www.recom-power.com/pdf/Econoline/RS6.pdf")
+   (attribute "Geometry.Height" "11.6mm")
+   (attribute "Mouser Part Number" "919-RS6-0505S")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RS6-0505S?qs=FLBwGrBR9%252B3r5kgbzQWtZg%3D%3D")
+   (attribute "Manufacturer_Name" "RECOM Power")
+   (attribute "Manufacturer_Part_Number" "RS6-0505S")
+   (gate
+    (symbol "RS6-0505S")
+    (pin "-VIN" 1 PS)
+    (pin "+VIN" 2 PS)
+    (pin "CTRL" 3 PS)
+    (pin "TRIM" 5 PS)
+    (pin "+VOUT" 6 PS)
+    (pin "-VOUT" 7 PS)
+    (pin "NC" 8 NC)
+   )
+  )
+  (symbol "RS6-0505S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RS60505S"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.01 3.2)
+      (pt 19.79 3.2)
+      (pt 19.79 -6)
+      (pt -2.01 -6)
+      (pt -2.01 3.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.01 3.2)
+      (pt 19.79 3.2)
+      (pt 19.79 -6)
+      (pt -2.01 -6)
+      (pt -2.01 3.2))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.9 4.2)
+      (pt 20.79 4.2)
+      (pt 20.79 -7)
+      (pt -3.9 -7)
+      (pt -3.9 4.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.8 0.2)
+      (arc (pt -2.800 0.200) (pt -2.900 0.000) (pt -2.700 0.200) (start 180.0) (sweep 90.0))
+      (pt -2.8 0)
+      (arc (pt -2.800 0.000) (pt -2.900 0.000) (pt -2.700 0.200) (start 180.0) (sweep -90.0))
+      (pt -2.8 0.2))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 5.080 0.000) (padstack 0))
+   (leg 5 (pt 10.160 0.000) (padstack 0))
+   (leg 6 (pt 12.700 0.000) (padstack 0))
+   (leg 7 (pt 15.240 0.000) (padstack 0))
+   (leg 8 (pt 17.780 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.15)
+    (plated true)
+    (pad (layer TCOP) (round 1.725))
+    (pad (layer INNER) (round 1.725))
+    (pad (layer BCOP) (round 1.725))
+   )
+   (model "RS6-0505S.stp"
+    (euler 90 0 0)
+    (offset 8.850000381469727 -1.399999976158142 -0.12999999523162842)
+   )
+  )
+ )
+)

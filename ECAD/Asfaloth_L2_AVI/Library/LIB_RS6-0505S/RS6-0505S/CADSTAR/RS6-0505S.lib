@@ -1,0 +1,16 @@
+.RS6-0505S :1 ;DC/DC Converter Isolated 5V 6W Recom Through Hole 6W Isolated DC-DC Converter, Vin 4.5  9 V dc
+RS60505S
+*STM PS
+*NGS
+*PLB 1="-VIN" 2="+VIN" 3="CTRL" 5="TRIM" 6="+VOUT" 7="-VOUT" 8="NC"
+*MXP 7
+*DFN RS6-0505S
+~!Mouser Part Number (919-RS6-0505S)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/RECOM-Power/RS6-0505S?qs=FLBwGrBR9%252B3r5kgbzQWtZg%3D%3D)
+~!Manufacturer_Name (RECOM Power)
+~!Manufacturer_Part_Number (RS6-0505S)
+~!Link Datasheet (https://www.recom-power.com/pdf/Econoline/RS6.pdf)
+~!Height (11.6mm)
+~!3D_Model (RS6-0505S)
+RS6-0505S
+1.1!U 2.1!U 3.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Stackpole Electronics, Inc.
+PartNumber=CSS0805FT10L0
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=5.1
+Released=2021-07-10 06:20:07
+Downloaded=2024-11-12 16:46:43
+3D=Y

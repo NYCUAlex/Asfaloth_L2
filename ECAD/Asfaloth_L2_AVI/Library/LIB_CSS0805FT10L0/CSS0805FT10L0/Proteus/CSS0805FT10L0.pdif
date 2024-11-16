@@ -1,0 +1,98 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CSS0805FT10L0"
+   (description "RES SHUNT, 0805, 0.01 ohm, 1%, 0.5W")
+   (family "RES")
+   (package "CSS0805FT10L0")
+   (attribute "Datasheet Link" "https://cs.seielect.com/catalog/SEI-CSS_CSSH.PDF")
+   (attribute "Geometry.Height" "0.65mm")
+   (attribute "Mouser Part Number" "708-CSS0805FT10L0")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/CSS0805FT10L0?qs=IPgv5n7u5QYApC%252BwHqTVbQ%3D%3D")
+   (attribute "Manufacturer_Name" "Stackpole Electronics, Inc.")
+   (attribute "Manufacturer_Part_Number" "CSS0805FT10L0")
+   (gate
+    (symbol "CSS0805FT10L0")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "CSS0805FT10L0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CSS0805FT10L0"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -0.625)
+      (pt 1 -0.625)
+      (pt 1 0.625)
+      (pt -1 0.625)
+      (pt -1 -0.625))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.8 1.72)
+      (pt 2.8 1.72)
+      (pt 2.8 -1.72)
+      (pt -2.8 -1.72)
+      (pt -2.8 1.72))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.1 0.625)
+      (pt 0.1 0.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.1 -0.625)
+      (pt 0.1 -0.625))))
+   (leg 1 (pt -1.100 0.000) (padstack 0))
+   (leg 2 (pt 1.100 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.400 1.440 0 0 90.000))
+   )
+   (model "CSS0805FT10L0.stp"
+    (euler 90 0 0)
+    (offset -1 0.6200000047683716 0.009999999776482582)
+   )
+  )
+ )
+)

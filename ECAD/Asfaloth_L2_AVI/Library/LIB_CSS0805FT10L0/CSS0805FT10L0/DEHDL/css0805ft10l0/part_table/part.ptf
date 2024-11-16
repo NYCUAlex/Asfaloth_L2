@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSS0805FT10L0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Stackpole Electronics, Inc.", "CSS0805FT10L0" (!) = "", "CSS0805FT10L0", "Other", "708-CSS0805FT10L0", "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/CSS0805FT10L0?qs=IPgv5n7u5QYApC%252BwHqTVbQ%3D%3D", "RES SHUNT, 0805, 0.01 ohm, 1%, 0.5W", "https://cs.seielect.com/catalog/SEI-CSS_CSSH.PDF", "0.65 mm"
+END_PART
+
+END.

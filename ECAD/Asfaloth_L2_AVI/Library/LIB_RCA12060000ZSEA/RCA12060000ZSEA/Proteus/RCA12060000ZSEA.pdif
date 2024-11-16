@@ -1,0 +1,91 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RCA12060000ZSEA"
+   (description "Thick Film Resistors - SMD Zero-Ohm Resist 3.5A")
+   (family "RES")
+   (package "RESC3216X60N")
+   (attribute "Datasheet Link" "https://www.mouser.in/datasheet/2/427/rcae3-1761931.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Mouser Part Number" "71-RCA12060000ZSEA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCA12060000ZSEA?qs=4%252Ber4tcBTOgzMfDdqtZgmA%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "RCA12060000ZSEA")
+   (gate
+    (symbol "RCA12060000ZSEA")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "RCA12060000ZSEA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESC3216X60N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.275 1.15)
+      (pt 2.275 1.15)
+      (pt 2.275 -1.15)
+      (pt -2.275 -1.15)
+      (pt -2.275 1.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.575 0.8)
+      (pt 1.575 0.8)
+      (pt 1.575 -0.8)
+      (pt -1.575 -0.8)
+      (pt -1.575 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.7)
+      (pt 0 -0.7))))
+   (leg 1 (pt -1.5 0) (padstack 0))
+   (leg 2 (pt 1.5 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.05 1.8 0 0 90))
+   )
+   (model "RCA12060000ZSEA.stp"
+    (euler -90 180 180)
+    (offset 0 0 0.05999999865889549)
+   )
+  )
+ )
+)

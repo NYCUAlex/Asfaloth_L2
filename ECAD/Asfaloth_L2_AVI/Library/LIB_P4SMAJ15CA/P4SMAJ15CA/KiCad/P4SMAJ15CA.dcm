@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P4SMAJ15CA
+D ESD Protection Diodes / TVS Diodes TVS, SMA,  150C,  400W, Bidir
+K
+F https://diotec.com/request/datasheet/p4smaj65.pdf
+$ENDCMP
+#
+#End Doc Library

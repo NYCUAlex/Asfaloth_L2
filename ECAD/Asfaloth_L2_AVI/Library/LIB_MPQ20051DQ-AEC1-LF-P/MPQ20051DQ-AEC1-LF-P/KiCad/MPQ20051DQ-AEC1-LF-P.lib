@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MPQ20051DQ-AEC1-LF-P
+#/1556446/1068755/2.50/9/3/Integrated Circuit
+DEF MPQ20051DQ-AEC1-LF-P IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "MPQ20051DQ-AEC1-LF-P" 1050 200 50 H V L CNN
+F2 "SON65P300X300X100-9N-D" 1050 100 50 H I L CNN
+F3 "https://www.monolithicpower.com/pub/media/document/MPQ20051_r1.0.pdf" 1050 0 50 H I L CNN
+F4 "LDO Voltage Regulators Auto Grade,Low Noise PSRR1A Linear Rgltr" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "946-MP20051DQAEC1LFP" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MPQ20051DQ-AEC1-LF-P?qs=IW9Tsl75qsWIqwkY02mOMw%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Monolithic Power Systems (MPS)" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MPQ20051DQ-AEC1-LF-P" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT_1 1 0 0 200 R 50 50 0 0 P
+X OUT_2 2 0 -100 200 R 50 50 0 0 P
+X FB 3 0 -200 200 R 50 50 0 0 P
+X GND_1 4 0 -300 200 R 50 50 0 0 P
+X GND_2 9 600 -1000 200 U 50 50 0 0 P
+X IN_2 8 1200 0 200 L 50 50 0 0 P
+X IN_1 7 1200 -100 200 L 50 50 0 0 P
+X NC 6 1200 -200 200 L 50 50 0 0 N
+X EN 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

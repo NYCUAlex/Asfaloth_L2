@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_20051915"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-25-03:32:17)
+    (utime 2024-10-25-03:32:17)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "P4SMAJ15CA")
+)
+
+
+(pinAssign "ECS_20051915"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-25-03:32:17)
+    (utime 2024-10-25-03:32:17)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20051915")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "P4SMAJ15CA")
+)
+
+
+(part "P4SMAJ15CA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-10-25-03:32:17)
+    (utime 2024-10-25-03:32:17)
+    (packageRef "P4SMAJ15CA")
+    (pinAssignRef "ECS_20051915")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "ESD Protection Diodes / TVS Diodes TVS, SMA,  150C,  400W, Bidir")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Diotec")
+    (property "Manufacturer_Part_Number" "P4SMAJ15CA")
+    (property "Datasheet_Link" "https://diotec.com/request/datasheet/p4smaj65.pdf")
+    (property "compAreaTopHeight" 2.4)
+)
+
+

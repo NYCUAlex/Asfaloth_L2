@@ -1,0 +1,16 @@
+.SRR5228A-470M :1 ;Ind,5.2x5.2x2.8,47uH+/-20%,1.1A,shd
+SRR5228A
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRR5228A-470M
+~!Mouser Part Number (6521-SRR5228A-470M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRR5228A-470M?qs=QpmGXVUTftG9kA8o879uEQ%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRR5228A-470M)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRR5228A.pdf)
+~!Height (-)
+~!3D_Model (SRR5228A-470M)
+SRR5228A-470M
+1.1!U 2.1!U 

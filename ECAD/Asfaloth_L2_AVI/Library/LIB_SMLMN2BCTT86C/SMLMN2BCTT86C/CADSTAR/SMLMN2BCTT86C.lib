@@ -1,0 +1,16 @@
+.SMLMN2BCTT86C :1 ;Blue 470nm LED Indication - Discrete 2.9V 0805 (2012 Metric)
+LEDM2012X100N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMLMN2BCTT86C
+~!Mouser Part Number (755-SMLMN2BCTT86C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SMLMN2BCTT86C?qs=EAJhGnHnT02MwYNfU4gt9w%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (SMLMN2BCTT86C)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlmn2bctt86(c)-e.pdf)
+~!Height (1mm)
+~!3D_Model (SMLMN2BCTT86C)
+SMLMN2BCTT86C
+1.1!U 2.1!U 

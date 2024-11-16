@@ -1,0 +1,9 @@
+Manufacturer=Diotec
+PartNumber=P4SMAJ15CA
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=1.1
+Released=2024-10-25 03:32:17
+Downloaded=2024-10-25 05:37:35
+3D=Y

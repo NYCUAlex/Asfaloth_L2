@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GRT188C71C475KE13D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-30-21:45:38)
+    (mountForm default
+        (footprintRef "GRT188")
+        (spec "System")
+    )
+)

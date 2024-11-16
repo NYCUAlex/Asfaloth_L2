@@ -1,0 +1,16 @@
+.RCL06120000Z0EA :1 ;Thick Film Resistors - SMD 3/4watt zero ohm 0612 100ppm
+RESC1632X65N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCL06120000Z0EA
+~!Mouser Part Number (71-RCL06120000Z0EA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCL06120000Z0EA?qs=soOxy1Y66HMgSIG3Jz7lug%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCL06120000Z0EA)
+~!Link Datasheet (-)
+~!Height (0.65mm)
+~!3D_Model (RCL06120000Z0EA)
+RCL06120000Z0EA
+1.1!U 2.1!U 

@@ -1,0 +1,16 @@
+.P4SMAJ15CA :1 ;ESD Protection Diodes / TVS Diodes TVS, SMA,  150C,  400W, Bidir
+DIONM5027X240N
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN P4SMAJ15CA
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Diotec)
+~!Manufacturer_Part_Number (P4SMAJ15CA)
+~!Link Datasheet (https://diotec.com/request/datasheet/p4smaj65.pdf)
+~!Height (2.4mm)
+~!3D_Model (P4SMAJ15CA)
+P4SMAJ15CA
+1.1!U 2.1!U 

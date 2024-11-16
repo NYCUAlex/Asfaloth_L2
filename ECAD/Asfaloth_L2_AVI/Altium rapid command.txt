@@ -1,0 +1,19 @@
+schematic
+--------------------------------------
+
+
+
+=======================================================
+PCB
+---------------------------------------
+D+R: design->Rules
+D+C: design->Classes
+Ctrl+W: normal routing
+Ctrl+L: switch layer while routing
+Ctrl+H: select all route
+Ctrl+F: flip the board
+Shift+S: see only one layer
+F4: polygon pour
+6: repour selected polygon
+*: exchange layer
+Q: switch unit mm/mil

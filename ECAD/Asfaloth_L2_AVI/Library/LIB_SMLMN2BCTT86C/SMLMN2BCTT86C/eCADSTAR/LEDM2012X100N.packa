@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMLMN2BCTT86C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-01-15:54:26)
+    (mountForm default
+        (footprintRef "LEDM2012X100N")
+        (spec "System")
+    )
+)

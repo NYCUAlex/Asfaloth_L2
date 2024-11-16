@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RCA12060000ZSEA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-13-11:46:45)
+    (mountForm default
+        (footprintRef "RESC3216X60N")
+        (spec "System")
+    )
+)

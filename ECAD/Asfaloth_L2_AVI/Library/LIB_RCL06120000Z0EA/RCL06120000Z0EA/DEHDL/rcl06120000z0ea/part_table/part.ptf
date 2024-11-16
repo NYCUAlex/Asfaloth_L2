@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RCL06120000Z0EA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "RCL06120000Z0EA" (!) = "", "RESC1632X65N", "Resistor Chip", "71-RCL06120000Z0EA", "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCL06120000Z0EA?qs=soOxy1Y66HMgSIG3Jz7lug%3D%3D", "Thick Film Resistors - SMD 3/4watt zero ohm 0612 100ppm", "", "0.65 mm"
+END_PART
+
+END.

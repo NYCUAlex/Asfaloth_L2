@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRT188C71C475KE13D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2024-04-30 21:45:40
+Downloaded=2024-10-29 09:24:17
+3D=Y

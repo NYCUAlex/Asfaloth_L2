@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_367505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-11-11:10:30)
+    (utime 2024-08-24-07:42:00)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SMLMN2BCTT86C")
+)
+
+
+(pinAssign "ECS_367505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-11-11:10:30)
+    (utime 2024-08-24-07:42:00)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_367505")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SMLMN2BCTT86C")
+)
+
+
+(part "SMLMN2BCTT86C"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-10-11-11:10:30)
+    (utime 2024-08-24-07:42:00)
+    (packageRef "SMLMN2BCTT86C")
+    (pinAssignRef "ECS_367505")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Blue 470nm LED Indication - Discrete 2.9V 0805 (2012 Metric)")
+    (property "Mouser_Part_Number" "755-SMLMN2BCTT86C")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SMLMN2BCTT86C?qs=EAJhGnHnT02MwYNfU4gt9w%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "SMLMN2BCTT86C")
+    (property "Datasheet_Link" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/smlmn2bctt86(c)-e.pdf")
+    (property "compAreaTopHeight" 1)
+)
+
+

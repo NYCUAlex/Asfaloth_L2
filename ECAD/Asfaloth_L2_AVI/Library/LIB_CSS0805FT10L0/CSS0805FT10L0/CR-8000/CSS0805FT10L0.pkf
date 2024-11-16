@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CSS0805FT10L0"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CSS0805FT10L0")
+        (spec "default")
+    )
+)

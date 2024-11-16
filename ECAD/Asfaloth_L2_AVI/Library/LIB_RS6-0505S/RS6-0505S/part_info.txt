@@ -1,0 +1,9 @@
+Manufacturer=RECOM Power
+PartNumber=RS6-0505S
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=7
+Version=5.1
+Released=2018-03-08 15:25:46
+Downloaded=2024-10-24 10:05:37
+3D=Y

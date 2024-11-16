@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRR5228A-470M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2024-02-15 10:50:57
+Downloaded=2024-10-25 08:03:58
+3D=Y

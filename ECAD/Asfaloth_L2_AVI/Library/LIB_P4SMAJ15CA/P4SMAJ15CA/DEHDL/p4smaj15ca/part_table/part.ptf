@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'P4SMAJ15CA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diotec", "P4SMAJ15CA" (!) = "", "DIONM5027X240N", "Diodes Moulded Non Polarised", "", "", "ESD Protection Diodes / TVS Diodes TVS, SMA,  150C,  400W, Bidir", "https://diotec.com/request/datasheet/p4smaj65.pdf", "2.4 mm"
+END_PART
+
+END.
