@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V_VCC Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=5V_VCC Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=5V_VCC Pin=R24-1
+Removed Pin From Net: NetName=5V_VCC Pin=R26-1
+Removed Pin From Net: NetName=5V_VCC Pin=R28-1
+Removed Pin From Net: NetName=5V_VCC Pin=R30-1
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=C21
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=C26
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=R24
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=R26
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=R28
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver0.0 Member=R30

@@ -1,0 +1,94 @@
+Added Component: Designator=U1(STM-LQFP144_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "2048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "LQFP144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "144-Pin Low Profile Quad Flat Package, Body 20 x 20 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK_U_LoRa_downlink Pin=U1-1
+Added Pin To Net: NetName=NSS_U_LoRa_downlink Pin=U1-3
+Added Pin To Net: NetName=MISO_U_LoRa_downlink Pin=U1-4
+Added Pin To Net: NetName=MOSI_U_LoRa_downlink Pin=U1-5
+Added Pin To Net: NetName=3V3_VCC Pin=U1-6
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=3V3_VCC Pin=U1-17
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Pin To Net: NetName=NRST_STM Pin=U1-25
+Added Pin To Net: NetName=3V3_VCC Pin=U1-30
+Added Pin To Net: NetName=AGND Pin=U1-31
+Added Pin To Net: NetName=AVDD Pin=U1-32
+Added Pin To Net: NetName=AVDD Pin=U1-33
+Added Pin To Net: NetName=RTS_IMU Pin=U1-34
+Added Pin To Net: NetName=CTS_IMU Pin=U1-35
+Added Pin To Net: NetName=TX_IMU Pin=U1-36
+Added Pin To Net: NetName=RX_IMU Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=3V3_VCC Pin=U1-39
+Added Pin To Net: NetName=NSS_U_LoRa_uplink Pin=U1-40
+Added Pin To Net: NetName=SCK_U_LoRa_uplink Pin=U1-41
+Added Pin To Net: NetName=MISO_U_LoRa_uplink Pin=U1-42
+Added Pin To Net: NetName=MOSI_U_LoRa_uplink Pin=U1-43
+Added Pin To Net: NetName=NRESET_U_LoRa_uplink Pin=U1-44
+Added Pin To Net: NetName=FEM_CTX_U_LoRa_uplink Pin=U1-45
+Added Pin To Net: NetName=DIO0_U_LoRa_uplink Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=3V3_VCC Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=3V3_VCC Pin=U1-62
+Added Pin To Net: NetName=ALE_PM1 Pin=U1-66
+Added Pin To Net: NetName=ALE_PM2 Pin=U1-67
+Added Pin To Net: NetName=ALE_PM3 Pin=U1-68
+Added Pin To Net: NetName=5V_VCC Pin=U1-69
+Added Pin To Net: NetName=5V_VCC Pin=U1-70
+Added Pin To Net: NetName=NetC3_1 Pin=U1-71
+Added Pin To Net: NetName=3V3_VCC Pin=U1-72
+Added Pin To Net: NetName=CAN_EGSE_RX Pin=U1-73
+Added Pin To Net: NetName=CAN_EGSE_TX Pin=U1-74
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=3V3_VCC Pin=U1-84
+Added Pin To Net: NetName=Spare_DIO0 Pin=U1-87
+Added Pin To Net: NetName=Spare_DIO1 Pin=U1-88
+Added Pin To Net: NetName=Spare_DIO2 Pin=U1-89
+Added Pin To Net: NetName=Spare_DIO3 Pin=U1-90
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=3V3_VCC Pin=U1-95
+Added Pin To Net: NetName=Spare_TX Pin=U1-96
+Added Pin To Net: NetName=Spare_RX Pin=U1-97
+Added Pin To Net: NetName=UART2TTL_TX Pin=U1-101
+Added Pin To Net: NetName=UART2TTL_RX Pin=U1-102
+Added Pin To Net: NetName=CAN_Motor_RX Pin=U1-103
+Added Pin To Net: NetName=CAN_Motor_TX Pin=U1-104
+Added Pin To Net: NetName=TMS Pin=U1-105
+Added Pin To Net: NetName=NetC4_1 Pin=U1-106
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=3V3_VCC Pin=U1-108
+Added Pin To Net: NetName=TCK Pin=U1-109
+Added Pin To Net: NetName=NSS_SD Pin=U1-110
+Added Pin To Net: NetName=SCK_SD Pin=U1-111
+Added Pin To Net: NetName=MISO_SD Pin=U1-112
+Added Pin To Net: NetName=MOSI_SD Pin=U1-113
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Pin To Net: NetName=3V3_VCC Pin=U1-121
+Added Pin To Net: NetName=PG9 Pin=U1-124
+Added Pin To Net: NetName=PG10 Pin=U1-125
+Added Pin To Net: NetName=PG11 Pin=U1-126
+Added Pin To Net: NetName=GND Pin=U1-130
+Added Pin To Net: NetName=3V3_VCC Pin=U1-131
+Added Pin To Net: NetName=SWO Pin=U1-133
+Added Pin To Net: NetName=BOOT0_STM Pin=U1-138
+Added Pin To Net: NetName=DIO0_U_LoRa_downlink Pin=U1-140
+Added Pin To Net: NetName=FEM_CPS_U_LoRa_downlink Pin=U1-141
+Added Pin To Net: NetName=NRESET_U_LoRa_downlink Pin=U1-142
+Added Pin To Net: NetName=GND Pin=U1-143
+Added Pin To Net: NetName=3V3_VCC Pin=U1-144
