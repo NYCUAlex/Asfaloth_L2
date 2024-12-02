@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Asfaloth_L2_AVI_ver1.1.SchDoc
+Record=SheetSymbol|SourceDocument=Asfaloth_L2_AVI_ver1.1.SchDoc|Designator=U_LoRa_downlink|SchDesignator=U_LoRa_downlink|FileName=SX1276_e268v01a.SchDoc|SymbolType=Normal|RawFileName=SX1276_e268v01a.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Asfaloth_L2_AVI_ver1.1.SchDoc|Designator=U_LoRa_uplink|SchDesignator=U_LoRa_uplink|FileName=SX1276_e268v01a.SchDoc|SymbolType=Normal|RawFileName=SX1276_e268v01a.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
