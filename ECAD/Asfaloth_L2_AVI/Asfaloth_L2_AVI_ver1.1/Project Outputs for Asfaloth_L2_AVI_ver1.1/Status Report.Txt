@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Asfaloth_L2_AVI_ver1.1.PrjPcb]
+   Generated File[Asfaloth_L2_AVI_ver1.1.TXT]
+   Generated File[Asfaloth_L2_AVI_ver1.1.LDP]
+   Generated File[Asfaloth_L2_AVI_ver1.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 01:58:47 On 2025/2/4

@@ -1,0 +1,39 @@
+Added Component: Designator=J6(L717SDCH37POL2)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/l717sdxhxxpol2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L717SDCH37POL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_VCC Pin=J6-1
+Added Pin To Net: NetName=3V3_VCC Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=CAN_Motor_P Pin=J6-6
+Added Pin To Net: NetName=CAN_Motor_N Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=CAN_EGSE_P Pin=J6-10
+Added Pin To Net: NetName=CAN_EGSE_N Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-13
+Added Pin To Net: NetName=GND Pin=J6-14
+Added Pin To Net: NetName=5V_VCC Pin=J6-15
+Added Pin To Net: NetName=5V_VCC Pin=J6-16
+Added Pin To Net: NetName=GND Pin=J6-20
+Added Pin To Net: NetName=MOSI_SD Pin=J6-21
+Added Pin To Net: NetName=MISO_SD Pin=J6-22
+Added Pin To Net: NetName=SCK_SD Pin=J6-23
+Added Pin To Net: NetName=NSS_SD Pin=J6-24
+Added Pin To Net: NetName=GND Pin=J6-25
+Added Pin To Net: NetName=GND Pin=J6-26
+Added Pin To Net: NetName=UART2TTL_RX Pin=J6-27
+Added Pin To Net: NetName=UART2TTL_TX Pin=J6-28
+Added Pin To Net: NetName=Spare_RX Pin=J6-29
+Added Pin To Net: NetName=Spare_TX Pin=J6-30
+Added Pin To Net: NetName=Spare_DIO3 Pin=J6-31
+Added Pin To Net: NetName=Spare_DIO2 Pin=J6-32
+Added Pin To Net: NetName=Spare_DIO1 Pin=J6-33
+Added Pin To Net: NetName=Spare_DIO0 Pin=J6-34
+Added Pin To Net: NetName=GND Pin=J6-35

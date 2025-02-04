@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=L717SDCH37POL2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=39
+Version=8.3
+Released=2022-02-18 07:38:43
+Downloaded=2025-02-02 10:10:59
+3D=Y

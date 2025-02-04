@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Asfaloth_L2_AVI_ver1.1.PcbDoc   2025/2/4  ¤U¤È 01:58:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Asfaloth_L2_AVI_ver1.1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             1168      PTH        0.00inch (0.00mm)
+T2      35mil (0.899mm)                                           Round             100       PTH        0.00inch (0.00mm)
+T3      39mil (1.001mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             37        PTH        0.00inch (0.00mm)
+T5      45mil (1.151mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T6      47mil (1.191mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T7      67mil (1.699mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T8      120mil (3.051mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T9      130mil (3.299mm)                                          Round             10        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1348
+
+Total Processing Time (hh:mm:ss) : 00:00:00

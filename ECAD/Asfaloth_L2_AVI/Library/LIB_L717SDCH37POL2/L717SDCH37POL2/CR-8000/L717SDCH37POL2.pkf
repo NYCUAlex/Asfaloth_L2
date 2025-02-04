@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "L717SDCH37POL2"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "L717SDCH37POL2")
+        (spec "default")
+    )
+)

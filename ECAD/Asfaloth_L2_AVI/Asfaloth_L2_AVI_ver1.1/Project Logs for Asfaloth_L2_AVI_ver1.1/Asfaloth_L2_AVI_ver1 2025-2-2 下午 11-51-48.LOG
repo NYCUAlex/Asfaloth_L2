@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=3V3_VCC Pin=P1-2
+Removed Pin From Net: NetName=NRST_STM Pin=P1-3
+Removed Pin From Net: NetName=TMS Pin=P1-4
+Removed Pin From Net: NetName=TCK Pin=P1-5
+Removed Pin From Net: NetName=SWO Pin=P1-6
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver1.1 Member=P1

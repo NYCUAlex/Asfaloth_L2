@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '53426_0210'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "53426-0210" (!) = "", "534260210", "Other", "538-53426-0210", "https://www.mouser.co.uk/ProductDetail/Molex/53426-0210?qs=9BfFgGvh7CeGd9pd%252BU8okg%3D%3D", "Headers & Wire Housings 2.50MM 2P RA HDR FRCTN POS LOCK", "https://www.molex.com/pdm_docs/sd/534260210_sd.pdf", "6.9 mm"
+END_PART
+
+END.

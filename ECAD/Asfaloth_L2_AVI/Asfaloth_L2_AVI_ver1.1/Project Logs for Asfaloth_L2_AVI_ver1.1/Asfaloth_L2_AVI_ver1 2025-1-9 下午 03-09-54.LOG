@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-51163-0200-MFG New Footprint=534260210
+Change Component Comment : Designator=J1 Old Comment=51163-0200 New Comment=53426-0210
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B5873D16-DD94-41F7-99C0-2871FD3A797B New ItemGUID= Old RevisionGUID=F2C8123B-7B5F-4BFE-B349-E5E012FC879B New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-51163-0200-MFG"; UniqueID = "\XZJELHEB" ("\XZJELHEB")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/534260210_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "6.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53426-0210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-53426-0210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/53426-0210?qs=9BfFgGvh7CeGd9pd%252BU8okg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=7V4_GND Pin=J1-1
+Added Pin To Net: NetName=7V4_VCC Pin=J1-2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAN_Motor_N Pin=J6-13
+Removed Pin From Net: NetName=CAN_Motor_P Pin=J6-14
+Added Pin To Net: NetName=CAN_Motor_P Pin=J6-13
+Added Pin To Net: NetName=CAN_Motor_N Pin=J6-14

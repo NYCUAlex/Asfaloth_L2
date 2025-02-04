@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Chassis_GND Pin=R24-1
+Removed Pin From Net: NetName=Chassis_GND Pin=R26-1
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver1.1 Member=R24
+Removed Member From Class: ClassName=Asfaloth_L2_AVI_ver1.1 Member=R26
+Added Component: Designator=C56(CAPC1608X87N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104J4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0603C104J4RECAUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104J4RECAUTO?qs=MLItCLRbWswpTgrKtA5UXg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C57(CAPC1608X87N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104J4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0603C104J4RECAUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104J4RECAUTO?qs=MLItCLRbWswpTgrKtA5UXg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_VCC Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=5V_VCC Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=Chassis_GND Pin=J6-MH1
+Added Pin To Net: NetName=Chassis_GND Pin=J6-MH2
+Added Member To Class: ClassName=Asfaloth_L2_AVI_ver1.1 Member=Component C56 0.1uF
+Added Member To Class: ClassName=Asfaloth_L2_AVI_ver1.1 Member=Component C57 0.1uF

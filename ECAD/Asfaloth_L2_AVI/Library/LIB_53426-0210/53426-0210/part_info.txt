@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=53426-0210
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-10-12 10:18:48
+Downloaded=2025-01-09 07:05:34
+3D=Y

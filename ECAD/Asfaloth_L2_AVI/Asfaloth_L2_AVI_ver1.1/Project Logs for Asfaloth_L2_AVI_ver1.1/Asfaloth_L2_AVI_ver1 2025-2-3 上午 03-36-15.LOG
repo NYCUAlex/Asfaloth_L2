@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NSS_SD Pin=J6-33
+Removed Pin From Net: NetName=SCK_SD Pin=J6-34
+Removed Pin From Net: NetName=MISO_SD Pin=J6-35
+Removed Pin From Net: NetName=MOSI_SD Pin=J6-36
+Added Pin To Net: NetName=MISO_SD Pin=J6-33
+Added Pin To Net: NetName=MOSI_SD Pin=J6-34
+Added Pin To Net: NetName=SCK_SD Pin=J6-35
+Added Pin To Net: NetName=NSS_SD Pin=J6-36

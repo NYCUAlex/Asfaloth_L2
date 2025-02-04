@@ -1,0 +1,49 @@
+Remove Pin=R1-1 From Net=RXTX_RF_sx
+Remove Pin=R2-2 From Net=FEM_CTX
+Remove Pin=R4-1 From Net=DIO3_sx
+Remove Pin=R4-2 From Net=DIO2_sx
+Remove Pin=R4-3 From Net=DIO1_sx
+Remove Pin=R4-4 From Net=DIO0_sx
+Remove Pin=R4-5 From Net=DIO0
+Remove Pin=R4-6 From Net=DIO1
+Remove Pin=R4-7 From Net=DIO2
+Remove Pin=R4-8 From Net=DIO3
+Remove Pin=R5-2 From Net=SCK_sx
+Remove Pin=R5-3 From Net=DIO5_sx
+Remove Pin=R5-4 From Net=DIO4_sx
+Remove Pin=R5-5 From Net=DIO4
+Remove Pin=R5-6 From Net=DIO5
+Remove Pin=R5-7 From Net=SCK
+Remove Pin=R13-1 From Net=RXTX_RF_sx
+Remove Pin=R13-2 From Net=NSS_sx
+Remove Pin=R13-3 From Net=MOSI_sx
+Remove Pin=R13-4 From Net=MISO_sx
+Remove Pin=R13-5 From Net=MISO
+Remove Pin=R13-6 From Net=MOSI
+Remove Pin=R13-7 From Net=NSS
+Remove Pin=R13-8 From Net=RXTX
+Remove Pin=R14-1 From Net=NRESET_sx
+Remove Pin=R14-2 From Net=NRESET
+Remove Pin=R15-2 From Net=FEM_CPS
+Remove Pin=U1-7 From Net=NRESET_sx
+Remove Pin=U1-8 From Net=DIO0_sx
+Remove Pin=U1-9 From Net=DIO1_sx
+Remove Pin=U1-10 From Net=DIO2_sx
+Remove Pin=U1-11 From Net=DIO3_sx
+Remove Pin=U1-12 From Net=DIO4_sx
+Remove Pin=U1-13 From Net=DIO5_sx
+Remove Pin=U1-16 From Net=SCK_sx
+Remove Pin=U1-17 From Net=MISO_sx
+Remove Pin=U1-18 From Net=MOSI_sx
+Remove Pin=U1-19 From Net=NSS_sx
+Change Component Footprint: Designator=J2 Old Footprint=AMASS_XT30PW-M New Footprint=2828374
+Change Component Footprint: Designator=J1 Old Footprint=FP-51163-0200-MFG New Footprint=2828374
+Change Component Comment: Designator=J1 Old Comment=51163-0200 New Comment=282837-4
+Change Component Comment: Designator=J2 Old Comment=XT30PW-M New Comment=282837-4
+Change Component Designator: OldDesignator=K_SX12xx NewDesignator=LoRa_downlink
+Change Component Designator: OldDesignator=LoRa_downlink NewDesignator=LoRa_uplink
+Add Pin To Net: Pin=U1B-126 Old Net=NetU1_126 New Net=PG11
+Change Pin Designator/Name:  Old Designator=R20-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R20-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R22-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R22-1 Old Name=1 New Designator =2 New Name=2
